@@ -1,7 +1,7 @@
-# covid19-globalhack
+# COVIDathon 
 Idea bank for educational games about COVID-19, pandemics (endemics, outbreaks, etc), germs (good/bad germs, germ warfare, germophobia), natural disasters (tornadoes, hurricanes, earthquakes, tsunamis), manmade disasters (Ocean Garbage Patches, microplastics, carbon/methane emissions), and more.   
 
-If you'd like to add your idea, fork the repo, submit a pull request with your addition/ Let's make the magic happen!  
+If you'd like to add your idea, fork the repo, submit a pull request with your addition. If you've already refined your idea, add it to the refinery and let's make the magic happen!  
 
 ***Objective: Build reality-based strategy games for kids to prepare them for when it is their turn to run the World.***
 
