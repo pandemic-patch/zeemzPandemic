@@ -1,3 +1,5 @@
+**Deprecated: go to [Nth Opinion COVIDation Zeemz Edition](https://github.com/pandemic-patch/nth-covidathon) for current version.**
+
 # COVIDathon 
 Idea bank for educational games about COVID-19, pandemics (endemics, outbreaks, etc), germs (good/bad germs, germ warfare, germophobia), natural disasters (tornadoes, hurricanes, earthquakes, tsunamis), manmade disasters (Ocean Garbage Patches, microplastics, carbon/methane emissions), and more.   
 
